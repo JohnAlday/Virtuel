@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uKa3y1w9AKBJrtChzd18YNluhXeCbpFReuvrlS+e7dItdl7UUN6/Eqdl1w/Qy+jhncB7WCusM5ZqwZX8KmbhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johna\\IMP Project\\Assets\\Scripts\\Gamer Server\\Game Server\\Game Server\\Game Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johna\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
