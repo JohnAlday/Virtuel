@@ -1,0 +1,13 @@
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\bin\Debug\netcoreapp3.1\Game Server.exe
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\bin\Debug\netcoreapp3.1\Game Server.deps.json
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\bin\Debug\netcoreapp3.1\Game Server.runtimeconfig.json
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\bin\Debug\netcoreapp3.1\Game Server.runtimeconfig.dev.json
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\bin\Debug\netcoreapp3.1\Game Server.dll
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\bin\Debug\netcoreapp3.1\Game Server.pdb
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\obj\Debug\netcoreapp3.1\Game Server.csprojAssemblyReference.cache
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\obj\Debug\netcoreapp3.1\Game Server.AssemblyInfoInputs.cache
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\obj\Debug\netcoreapp3.1\Game Server.AssemblyInfo.cs
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\obj\Debug\netcoreapp3.1\Game Server.csproj.CoreCompileInputs.cache
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\obj\Debug\netcoreapp3.1\Game Server.dll
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\obj\Debug\netcoreapp3.1\Game Server.pdb
+C:\Users\johna\IMP Project\Assets\Scripts\Gamer Server\Game Server\Game Server\obj\Debug\netcoreapp3.1\Game Server.genruntimeconfig.cache
